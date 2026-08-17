@@ -1,0 +1,12 @@
+{
+  "name": "devops-docker-task",
+  "version": "1.0.0",
+  "description": "DevOps Docker deployment task",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
